@@ -1,7 +1,7 @@
 package CHAPTER04_COLLECTION;
 
 // 095. 배열 사용하
-public class Example095 {
+public class Example095_Array {
 	
 	public static void main(String[] args) {
 
